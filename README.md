@@ -20,4 +20,7 @@
   <p>
 </div> 
 
-
+<p>
+✔ Github: https://github.com/lucasgiorgi95
+✔ Gmail: lucas1995giorgi@gmail.com 
+</p>
