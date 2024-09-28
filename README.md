@@ -3,7 +3,7 @@
 
 <!-- Banner image -->
 <p align="center">
-  <img width="80%" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" alt="Developer Banner">
+  <img width="80%" src="https://media.licdn.com/dms/image/v2/D4D16AQEeYY8-v8tZjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727469563426?e=1732752000&v=beta&t=kc-CfKFzfQVC6NnwHdbFjYrjJnSpi7fhsG3rxhFZlmM" alt="Developer Banner">
 </p>
 
 <div align="center">
