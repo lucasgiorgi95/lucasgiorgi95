@@ -36,24 +36,11 @@
 
 ### 🚀 Algunos proyectos destacados
 
-- 🌐 [**Consthera**](https://consthera.com.mx/) – Sitio web institucional para una empresa de desarrollo y arquitectura en México
-- 💎 [**Klaritty**](https://klaritty.com/) – Plataforma de diagnóstico digital para mejorar la salud visual y ocular
-- ⚡ [**Clon Tesla**](https://clon-tesla-one.vercel.app/) – Clon interactivo del sitio de Tesla hecho con React y Tailwind, optimizado para performance
-- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) – Tu sitio personal donde presentás tu perfil, proyectos y contacto
+- 🌐 [**Consthera**](https://consthera.com.mx/)
+- 💎 [**Klaritty**](https://klaritty.com/) 
+- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) 
 
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiorgi&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=lucasgiorgi&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contacto
 
