@@ -34,10 +34,14 @@
 
 ### 🚀 Algunos proyectos destacados
 
-- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) – Sitio personal y profesional
-- 🛒 [**E-commerce funcional**](https://github.com/lucasgiorgi/ecommerce-app) – Con registro, login y gestión de productos
-- 📦 [**Sistema de Gestión de Inventario**](https://github.com/lucasgiorgi/inventory-app) – Backend y Frontend desarrollados desde cero
-- 📱 [**PWA tipo SaaS minimalista**](https://github.com/lucasgiorgi/mini-saas) – En progreso
+### 🚀 Algunos proyectos destacados
+
+- 🌐 [**Consthera**](https://consthera.com.mx/) – Sitio web institucional para una empresa de desarrollo y arquitectura en México
+- 💎 [**Klaritty**](https://klaritty.com/) – Plataforma de diagnóstico digital para mejorar la salud visual y ocular
+- ⚡ [**Clon Tesla**](https://clon-tesla-one.vercel.app/) – Clon interactivo del sitio de Tesla hecho con React y Tailwind, optimizado para performance
+- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) – Tu sitio personal donde presentás tu perfil, proyectos y contacto
+
+
 
 ---
 
