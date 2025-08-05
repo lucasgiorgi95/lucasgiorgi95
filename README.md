@@ -1,44 +1,63 @@
-<h1 align="center">Hola, Soy Lucas Giorgi 👋</h1>
-<h3 align="center">🚀 Desarrollador Frontend 🚀</h3>
+<h1 align="center">Hola 👋, soy Lucas Giorgi</h1>
 
-<!-- Banner image -->
 <p align="center">
-  <img width="80%" src="https://media.licdn.com/dms/image/v2/D4D16AQEeYY8-v8tZjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727469563426?e=1732752000&v=beta&t=kc-CfKFzfQVC6NnwHdbFjYrjJnSpi7fhsG3rxhFZlmM" alt="Developer Banner">
+  <b>Desarrollador Web Full Stack especializado en Frontend</b><br/>
+  <i>Apasionado por crear soluciones digitales modernas, funcionales y bien diseñadas</i>
 </p>
-
-<div align="center">
-  <h3> 👨🏻‍💻 Acerca de mí </h3>
-  <p>
-    - 🤔 &nbsp; Explorando nuevas tecnologías en desarrollo web.<br>
-    - 🌱 &nbsp; Aprendiendo más sobre Arquitecturas Backend y Desarrollo Frontend.<br>
-    - ✍️ &nbsp; Enfocado en crecimiento profesional, con pasión por el trabajo en equipo.<br>
-    - 🌐 &nbsp; Siempre buscando mejorar la experiencia del usuario en la web.
-  </p>
-</div>
-
-<div>
-  <h3 align="center"> 💻 Tecnologías y Herramientas </h3>
-  <p align="center">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript"> 
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="React">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="Node.js">
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="HTML5">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git">
-  </p>
-</div>
-
-<div align="center">
-  <h3> 📫 Contacto </h3>
-  <p>
-    <a href="https://portfolio-lucas-three.vercel.app/" target="_blank">🌍 Portafolio: portfolio-lucas-three.vercel.app</a><br>
-    <a href="https://www.linkedin.com/in/lucasgiorgi-frontend/" target="_blank">💼 LinkedIn: lucasgiorgi-frontend</a><br>
-    <a href="https://github.com/lucasgiorgi95" target="_blank">✔ Github: lucasgiorgi95</a><br>
-    ✔ Gmail: lucas1995giorgi@gmail.com
-  </p>
-</div>
 
 ---
 
+### 👨‍💻 Sobre mí
+
+- 💼 +3 años de experiencia desarrollando soluciones con React, Next.js, TypeScript, Node.js y más
+- 🛠️ Actualmente trabajando en un sistema automatizado de gestión de inventario
+- 🚀 Fan de los proyectos que combinan frontend sólido + backend estructurado
+- 🧠 Aprendiendo constantemente sobre arquitectura de software y escalabilidad
+- 🎯 Buscando oportunidades para colaborar, aprender y crecer
+
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
+
+---
+
+### 🚀 Algunos proyectos destacados
+
+- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) – Sitio personal y profesional
+- 🛒 [**E-commerce funcional**](https://github.com/lucasgiorgi/ecommerce-app) – Con registro, login y gestión de productos
+- 📦 [**Sistema de Gestión de Inventario**](https://github.com/lucasgiorgi/inventory-app) – Backend y Frontend desarrollados desde cero
+- 📱 [**PWA tipo SaaS minimalista**](https://github.com/lucasgiorgi/mini-saas) – En progreso
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <strong>¡Vamos a crear algo increíble juntos! 💻🚀</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiorgi&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=lucasgiorgi&theme=tokyonight" />
 </p>
+
+---
+
+### 📫 Contacto
+
+- Portfolio: [lucasgiorgi.dev](https://portfolio-lucas-three.vercel.app/)
+- GitHub: [github.com/lucasgiorgi](https://github.com/lucasgiorgi)
+- LinkedIn: [linkedin.com/in/lucasgiorgi-dev](https://www.linkedin.com/in/lucasgiorgi-dev)
+- Email: lucasgiorgi.dev@gmail.com
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
