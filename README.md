@@ -1,19 +1,19 @@
-<h1 align="center">Hola 👋, soy Lucas Giorgi</h1>
+<h1 align="center">Hi 👋, I'm Lucas Giorgi</h1>
 
 <p align="center">
-  <b>Desarrollador Web Full Stack especializado en Frontend</b><br/>
-  <i>Apasionado por crear soluciones digitales modernas, funcionales y bien diseñadas</i>
+  <b>Full Stack Web Developer specialized in Frontend</b><br/>
+  <i>Passionate about building modern, functional, and well-designed digital solutions</i>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-- 💼 +3 años de experiencia desarrollando soluciones con React, Next.js, TypeScript, Node.js y más
-- 🛠️ Actualmente trabajando en un sistema automatizado de gestión de inventario
-- 🚀 Fan de los proyectos que combinan frontend sólido + backend estructurado
-- 🧠 Aprendiendo constantemente sobre arquitectura de software y escalabilidad
-- 🎯 Buscando oportunidades para colaborar, aprender y crecer
+- 💼 3+ years of experience developing solutions with React, Next.js, TypeScript, Node.js, and more
+- 🛠️ Currently working on an automated inventory management system
+- 🚀 Enthusiast of projects that combine solid frontend + structured backend
+- 🧠 Constantly learning about software architecture and scalability
+- 🎯 Looking for opportunities to collaborate, learn, and grow
 
 ---
 
@@ -32,17 +32,15 @@
 
 ---
 
-### 🚀 Algunos proyectos destacados
-
-### 🚀 Algunos proyectos destacados
+### 🚀 Featured Projects
 
 - 🌐 [**Consthera**](https://consthera.com.mx/)
 - 💎 [**Klaritty**](https://klaritty.com/) 
-- 💻 [**Portfolio Web**](https://portfolio-lucas-three.vercel.app/) 
+- 💻 [**Web Portfolio**](https://portfolio-lucas-three.vercel.app/) 
 
+---
 
-
-### 📫 Contacto
+### 📫 Contact
 
 - Portfolio: [lucasgiorgi.dev](https://portfolio-lucas-three.vercel.app/)
 - GitHub: [github.com/lucasgiorgi](https://github.com/lucasgiorgi)
@@ -51,4 +49,4 @@
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil!
+⭐ Thanks for visiting my profile!
